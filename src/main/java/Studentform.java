@@ -71,7 +71,7 @@ public class Studentform extends javax.swing.JFrame {
             }
         });
 
-        jLabel3.setText("Middle");
+        jLabel3.setText("Middle Name");
 
         Middle_name.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
